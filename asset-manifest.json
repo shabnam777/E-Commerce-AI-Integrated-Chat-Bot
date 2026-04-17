@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/E-Commerce-AI-Integrated-Chat-Bot/static/css/main.32d694b9.css",
+    "main.js": "/E-Commerce-AI-Integrated-Chat-Bot/static/js/main.1dd68928.js",
+    "index.html": "/E-Commerce-AI-Integrated-Chat-Bot/index.html",
+    "main.32d694b9.css.map": "/E-Commerce-AI-Integrated-Chat-Bot/static/css/main.32d694b9.css.map",
+    "main.1dd68928.js.map": "/E-Commerce-AI-Integrated-Chat-Bot/static/js/main.1dd68928.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32d694b9.css",
+    "static/js/main.1dd68928.js"
+  ]
+}
